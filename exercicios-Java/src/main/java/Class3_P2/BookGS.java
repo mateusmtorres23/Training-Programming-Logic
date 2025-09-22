@@ -1,14 +1,14 @@
 package Class3_P2;
 import java.util.Scanner;
 
-public class Book {
+public class BookGS {
     private final String title;
     private final String author;
     private boolean checkedOut = false;
 
     Scanner sc = new Scanner(System.in);
 
-    public Book(String title, String author) {
+    public BookGS(String title, String author) {
         this.title = title;
         this.author = author;
     }
@@ -81,7 +81,7 @@ public class Book {
     }
 
     public static void main(String[] args) {
-        Book SoftwareEng = new Book("Software Engineering", "Ian Sommerville");
+        BookGS SoftwareEng = new BookGS("Software Engineering", "Ian Sommerville");
         SoftwareEng.mainLoop();
     }
 
