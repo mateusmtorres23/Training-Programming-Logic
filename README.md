@@ -5,5 +5,5 @@ Solutions to logic and algorithmic challenges implemented in multiple languages.
 ## Languages
 
 * 🐍 Python
-* 📜 JavaScript (Node.js)
+* 💎 Haskell
 * ☕ Java
