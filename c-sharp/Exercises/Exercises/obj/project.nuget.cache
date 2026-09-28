@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PdkOytWJOpc=",
+  "success": true,
+  "projectFilePath": "C:\\programming\\c-sharp\\Exercises\\Exercises\\Exercises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mmtor\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\11.0.0-preview.3.26207.106\\microsoft.extensions.dependencyinjection.11.0.0-preview.3.26207.106.nupkg.sha512",
+    "C:\\Users\\mmtor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0-preview.3.26207.106\\microsoft.extensions.dependencyinjection.abstractions.11.0.0-preview.3.26207.106.nupkg.sha512"
+  ],
+  "logs": []
+}
