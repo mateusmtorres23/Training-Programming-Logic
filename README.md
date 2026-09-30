@@ -1,9 +1,13 @@
-# Programming Problem-Solving
+# Programming Exercises
 
-Solutions to logic and algorithmic challenges implemented in multiple languages. This repository is used to practice problem-solving skills and showcase coding versatility.
+A collection of programming exercises completed during university coursework and personal studies.
+
+The repository includes programming logic, problem-solving, and introductory exercises in different programming languages.
 
 ## Languages
 
-* 🐍 Python
-* 💎 Haskell
-* ☕ Java
+- 🐍 Python
+- ☕ Java
+- λ Haskell
+- 🟣 C#
+- 🔵 Go
