@@ -8,6 +8,6 @@ The repository includes programming logic, problem-solving, and introductory exe
 
 - 🐍 Python
 - ☕ Java
-- λ Haskell
+-  λ  Haskell
 - 🟣 C#
 - 🔵 Go
